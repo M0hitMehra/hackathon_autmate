@@ -1,6 +1,6 @@
 # hackathon_autmate
 
-This is bot like app  which is build using node.js library called puppeter to automate abd write code for you.
+This is bot like app  which is build using node.js library called puppeter to automate and write code for you.
 
 It will automatically login for the user and write code and will also submit code for them by passing test cases
 
