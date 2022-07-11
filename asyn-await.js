@@ -1,3 +1,4 @@
+// code based on asyn-await and compare how less and less repetitive code i have to write in this then index.js
 const puppeteer = require("puppeteer");
 const { Browser } = require("puppeteer-core");
 const { answer } = require("./code");
