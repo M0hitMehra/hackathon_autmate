@@ -1,3 +1,5 @@
+// CODE BASED ON PROMISES WITHOUT ASYNC-AWAIT
+
 const puppeteer = require("puppeteer");
 const { Browser } = require("puppeteer-core");
 const { answer } = require("./code");
